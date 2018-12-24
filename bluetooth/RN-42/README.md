@@ -15,6 +15,6 @@
 <img src="https://user-images.githubusercontent.com/36192933/50403087-1af3f900-079c-11e9-9581-069cdeed67eb.png" width="256">
 </br>
 4. Test the Bluetooth module by making a loopback.
----
-<img src="https://user-images.githubusercontent.com/36192933/50403084-1596ae80-079c-11e9-8f40-d44d14632816.jpg" width="256">
+</br>
+<img src="https://user-images.githubusercontent.com/36192933/50403085-17f90880-079c-11e9-9502-9d265b2c07d1.png" width="256">
 
