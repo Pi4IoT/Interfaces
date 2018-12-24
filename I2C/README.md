@@ -10,3 +10,6 @@
 - 4 A/D + 1 D/A Converter 	PCF8591T 	0x48
 - 1 A/D Converter 18Bit 	MCP3421 	0x68
 - Air Pressure/Temperature   	MPL115A2 	0x60
+
+
+Video on YouTube --> <a href="https://youtu.be/6DrDO38gT14" target="_blank">Raspberry PI I2C Teil 1 (8574TS)</a>
