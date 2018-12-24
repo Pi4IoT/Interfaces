@@ -1,3 +1,5 @@
+![blockschaltbild_asus](https://user-images.githubusercontent.com/36192933/50402418-cd28c200-0796-11e9-9640-227eb9b0f348.png)
+
 - Sensor-description: 	Designation:    	Address
 - 8 Bit digital I/O 	8574TS 	0x20
 - Humidity/Temperature 	HIH-6130 	0x27
